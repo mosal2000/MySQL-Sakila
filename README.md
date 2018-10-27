@@ -1,4 +1,4 @@
-# Sakila Schema Analysis in MySQL Database
+# Sakila Schema Data in MySQL Database
 * Solution: sakila_data.sql
 
 ## Installation Instructions
