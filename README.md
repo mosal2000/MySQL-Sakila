@@ -98,11 +98,3 @@
 'staff_list'
 'store'
 ```
-
-## Uploading Homework
-
-* To submit this homework using BootCampSpot:
-
-  * Create a GitHub repository.
-  * Upload your .sql file with the completed queries.
-  * Submit a link to your GitHub repo through BootCampSpot.
